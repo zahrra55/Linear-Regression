@@ -135,7 +135,7 @@ This implementation serves as an excellent educational tool for understanding:
 ## Academic Context
 
 **Course**: Large Scale Machine Learning (LSML)  
-**Professor**: [Professor Name]  
+**Supervisor**: Dr. B. N. Dhannoon  
 **University**: Al-Nahrain University  
 **Student**: Zahraa Ibrahim  
 **Program**: Master of Science in Computer Science (MSCS)  
@@ -183,4 +183,4 @@ This project was developed in response to the professor's request to demonstrate
 **Contact**: Zahraa Ibrahim  
 **Institution**: Al-Nahrain University  
 **Course**: Large Scale Machine Learning  
-**Date**: [Current Date]
+**Supervisor**: Dr. B. N. Dhannoon
